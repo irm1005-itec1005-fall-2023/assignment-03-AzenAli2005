@@ -33,3 +33,4 @@ function clearCompletedTasks() {
   todoItems = todoItems.filter(todo => !todo.completed);
 }
 
+//I received most help from ChatGPT and used past knowledge 
