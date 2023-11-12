@@ -33,4 +33,4 @@ function clearCompletedTasks() {
   todoItems = todoItems.filter(todo => !todo.completed);
 }
 
-//I received most help from ChatGPT and used past knowledge 
+//I received most help from ChatGPT and I have also gotten help from friends
